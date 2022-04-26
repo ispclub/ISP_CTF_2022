@@ -1,17 +1,17 @@
 # Web02
 
 Đề cho trang login 
-@import "/images/login.png"
+![](images/login.png)
 
 Khi đăng nhập với tài khoản bất kì `admin:admin`
 Thì web luôn trả về `wrong password`
 
-@import "/images/wrong.png"
+![](images/wrong.png)
 
 Bài web không đưa thêm bất kì gợi ý nào 
 có lỗi backup file tại trang home.php khi thêm kí tự `'~'`
 
-@import "/images/backup.png"
+![](images/backup.png)
 
 ```php
 <?php
@@ -53,11 +53,11 @@ Biến ser được gắn với chuỗi serialize của class x trước đó đ
 
 Hàm fil có thể làm tăng độ dài của chuỗi, ghi đề được password=1337 sau khi unserialize
 
-@import "/images/vd1.png"
+![](images/vd1.png)
 
 Kết quả nhận được
 
-@import "/images/kq.png"
+![](images/kq.png)
 
 Độ dài của biến username="Isp" là 3 nhưng sau khi đi qua fil biến username="IspClub" là 7 nhưng độ dài trong chuỗi serialize vẫn là 3
 
@@ -69,23 +69,22 @@ Chuỗi: `IspClub` có độ dài là 7
 7*x=3*x+32 tìm được độ dài Isp lặp lại 8 lần
 `Payload: IspIspIspIspIspIspIspIsp";s:8:"password";s:7:"ispclub";}`
 
-@import "/images/final.png"
-
+![](images/final.png)
 Kêt quả
 
-@import "/images/kq2.png"
+![](images/kq2.png)
 
 Biến username trong chuỗi serialize lúc này đã được gán thành `IspClubIspClubIspClubIspClubIspClubIspClubIspClubIspClub` và biến password được gán thành `ispclub` sau khi hàm unserialize thực thi
 
 Ví dụ sau khi unserialize
 
-@import "/images/unser.png"
+![](images/unser.png)
 
 Kết quả
 
-@import "/images/kqser.png"
+![](images/kqser.png)
 
-@import "/images/flag.png"
+![](images/flag.png)
 
 >Flag: ISPCTF{fca9a3569e743022a0210e3229289ecc}
 

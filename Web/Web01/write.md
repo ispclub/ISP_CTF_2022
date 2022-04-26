@@ -41,6 +41,6 @@ Do vậy biến var là dạnh octal là 0
 Nhưng chữ số 0 không thể ở đầu => để kí tự đầu tiên là khoảng trắng
 > num= 02471
 
-@import "/images/flag.png"
+![](images/flag.png)
 
 > Flag: ISPCTF{695e72838b0b284a47930f311fcc5d49}
