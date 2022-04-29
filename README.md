@@ -16,5 +16,5 @@
 |                 |  PWN   | |
 |                 |  PWN   | |
 |    ez_for.mp3   |  For   | [link](./Forensics/ez_for.mp3)                                |
-|      17|63      |  For   | [link](./Forensics/17|63)                                     |
+|     17\|63      |  For   | [link](./Forensics/17\|63)                                     |
 |                 |  Prog  | |
