@@ -13,8 +13,8 @@
 |      Pila       |  RE    | [link](./Reverse/Pila/README.md)                              |
 |      Crackme    |  RE    | [link](./Reverse/crackme)                                     |
 |      Sleep      |  RE    | [link](./Reverse/Sleep)                                       |
-|                 |  PWN   | |
-|                 |  PWN   | |
+|   YouTellMeWat  |  PWN   | [link](./Pwn/YouTellMeWat)                                    |
+|      PwnMe      |  PWN   | [link](.Pwn/pwnMe)                                            |
 |    ez_for.mp3   |  For   | [link](./Forensics/ez_for.mp3)                                |
-|     17\|63      |  For   | [link](./Forensics/17\|63)                                     |
+|     17\|63      |  For   | [link](./Forensics/17\|63)                                    |
 |                 |  Prog  | |
