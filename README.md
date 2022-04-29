@@ -15,6 +15,6 @@
 |      Sleep      |  RE    | [link](./Reverse/Sleep)                                       |
 |   YouTellMeWat  |  PWN   | [link](./Pwn/YouTellMeWat)                                    |
 |      PwnMe      |  PWN   | [link](.Pwn/pwnMe)                                            |
-|    ez_for.mp3   |  For   | [link](./Forensics/ez_for.mp3)                                |
+|     ez_For      |  For   | [link](./Forensics/ez_For)                                    |
 |     17\|63      |  For   | [link](./Forensics/17\|63)                                    |
 |                 |  Prog  | |
